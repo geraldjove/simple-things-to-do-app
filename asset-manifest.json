@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/simple-things-to-do-app/static/css/main.f06e1b3d.css",
-    "main.js": "/simple-things-to-do-app/static/js/main.834361bd.js",
+    "main.css": "/simple-things-to-do-app/static/css/main.ed577e4f.css",
+    "main.js": "/simple-things-to-do-app/static/js/main.c8997d32.js",
     "index.html": "/simple-things-to-do-app/index.html",
-    "main.f06e1b3d.css.map": "/simple-things-to-do-app/static/css/main.f06e1b3d.css.map",
-    "main.834361bd.js.map": "/simple-things-to-do-app/static/js/main.834361bd.js.map"
+    "main.ed577e4f.css.map": "/simple-things-to-do-app/static/css/main.ed577e4f.css.map",
+    "main.c8997d32.js.map": "/simple-things-to-do-app/static/js/main.c8997d32.js.map"
   },
   "entrypoints": [
-    "static/css/main.f06e1b3d.css",
-    "static/js/main.834361bd.js"
+    "static/css/main.ed577e4f.css",
+    "static/js/main.c8997d32.js"
   ]
 }
